@@ -1,0 +1,27 @@
+<html>
+<body>
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+    background-color:coral;
+    display: inline-block;
+}
+.div2{
+    background-color: cadetblue;
+    padding: 10px;
+
+}
+.div3{
+    background-color: rgb(155, 87, 87);
+    padding: 10px;
+}
+table,tr,th,td{
+    border-radius: 5px;
+    background-color: rgb(139, 104, 57);
+}
+</body>
+</html>
